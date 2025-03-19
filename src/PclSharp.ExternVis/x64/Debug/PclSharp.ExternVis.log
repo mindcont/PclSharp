@@ -1,4 +1,15 @@
-﻿vtkCommonCore-8.0-gd.lib(vtkSmartPointerBase.obj) : warning LNK4099: 未找到 PDB“”(使用“vtkCommonCore-8.0-gd.lib(vtkSmartPointerBase.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+﻿  visualizer.h
+  Unknown compiler version - please run the configure tests and report the results
+C:\Program Files\PCL 1.8.1\include\pcl-1.8\pcl\point_traits.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../PclSharp.ExternVis/visualizer.h”)
+  
+C:\Program Files\PCL 1.8.1\include\pcl-1.8\pcl\visualization\interactor_style.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../PclSharp.ExternVis/visualizer.h”)
+  
+C:\Program Files\PCL 1.8.1\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(1618,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../PclSharp.ExternVis/visualizer.h”)
+  
+vtkCommonCore-8.0-gd.lib(vtkSmartPointerBase.obj) : warning LNK4099: 未找到 PDB“”(使用“vtkCommonCore-8.0-gd.lib(vtkSmartPointerBase.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
 vtkCommonCore-8.0-gd.lib(vtkDebugLeaksManager.obj) : warning LNK4099: 未找到 PDB“”(使用“vtkCommonCore-8.0-gd.lib(vtkDebugLeaksManager.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
 vtkCommonCore-8.0-gd.lib(vtkObjectFactory.obj) : warning LNK4099: 未找到 PDB“”(使用“vtkCommonCore-8.0-gd.lib(vtkObjectFactory.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
 vtkCommonCore-8.0-gd.lib(vtkUnsignedCharArray.obj) : warning LNK4099: 未找到 PDB“”(使用“vtkCommonCore-8.0-gd.lib(vtkUnsignedCharArray.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
