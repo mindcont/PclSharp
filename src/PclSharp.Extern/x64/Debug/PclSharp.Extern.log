@@ -1,0 +1,3 @@
+﻿  LINK : 没有找到 D:\PclSharp\src\..\bin\x64\Debug\PclSharp.Extern.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 D:\PclSharp\src\..\bin\x64\Debug\PclSharp.Extern.lib 和对象 D:\PclSharp\src\..\bin\x64\Debug\PclSharp.Extern.exp
+  PclSharp.Extern.vcxproj -> D:\PclSharp\bin\x64\Debug\PclSharp.Extern.dll
